@@ -1,0 +1,28 @@
+# LibreHardwareMonitor DLL (downloaded automatically)
+LibreHardwareMonitorLib.dll
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Debug files
+debug_sensors.ps1
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log

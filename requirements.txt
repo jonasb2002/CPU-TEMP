@@ -1,0 +1,7 @@
+# CPU Temperature Monitor Dependencies
+# Install with: pip install -r requirements.txt
+
+pystray>=0.19.5          # System Tray Icon
+Pillow>=10.0.0           # Image handling for tray icon
+winotify>=1.1.0          # Windows Toast Notifications
+pywin32>=306             # Windows Registry access for autostart
