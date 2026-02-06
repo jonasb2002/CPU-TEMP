@@ -28,8 +28,8 @@ Tooltip: CPU: 72°C | GPU: 55°C | SSD: 38°C
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hw-temp-monitor.git
-cd hw-temp-monitor
+git clone https://github.com/jonasb2002/CPU-TEMP.git
+cd CPU-TEMP
 ```
 
 ### 2. Install Python dependencies
